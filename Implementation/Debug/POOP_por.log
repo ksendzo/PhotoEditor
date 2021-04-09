@@ -1,0 +1,13 @@
+﻿  BMPFormatter.cpp
+  Image.cpp
+  JSONFormatter.cpp
+  Layer.cpp
+C:\Users\Ksendzo\source\repos\POOP_por\Layer.cpp(28,13): warning C4129: '.': unrecognized character escape sequence
+C:\Users\Ksendzo\source\repos\POOP_por\Layer.cpp(29,13): warning C4129: '.': unrecognized character escape sequence
+  PAMFormatter.cpp
+  POOP_por.cpp
+C:\Users\Ksendzo\source\repos\POOP_por\POOP_por.cpp(268,16): warning C4129: '.': unrecognized character escape sequence
+C:\Users\Ksendzo\source\repos\POOP_por\POOP_por.cpp(269,16): warning C4129: '.': unrecognized character escape sequence
+C:\Users\Ksendzo\source\repos\POOP_por\POOP_por.cpp(270,17): warning C4129: '.': unrecognized character escape sequence
+  Generating Code...
+  POOP_por.vcxproj -> C:\Users\Ksendzo\source\repos\POOP_por\Debug\POOP_por.exe
